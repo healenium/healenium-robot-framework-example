@@ -42,7 +42,7 @@ To run test using Healenium create RemoteWebDriver with URL ```http://<remote we
 
 ```py
 *** Variables ***
-${TEST_PAGE}      https://elenastepuro.github.io/test_env/index.html
+${TEST_PAGE}      https://healenium.github.io/healenium-test-env/index.html
 ${BROWSER}        Firefox
 ${PROXY_URL}      http://localhost:8085
 
